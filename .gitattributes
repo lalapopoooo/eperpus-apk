@@ -1,1 +1,2 @@
 *.apk filter=lfs diff=lfs merge=lfs -text
+eperpuscki.apk filter=lfs diff=lfs merge=lfs -text
